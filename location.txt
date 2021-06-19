@@ -1,0 +1,1 @@
+./emc3.yaml	./camera1.xml
