@@ -18,4 +18,4 @@ https://visp-doc.inria.fr/doxygen/visp-daily/tutorial-install-ubuntu-package.htm
 - Create a build folder in the workspace
 - Compile the code in the workspace
 - Run it 
-- Caution: emc1.yaml, config.txt,location.txt must be put in the build folder.
+- Caution: emc1.yaml, config.txt,location.txt,camera1.xml must be put in the build folder.
